@@ -23,7 +23,7 @@ function buildTable(data) {
         }
       );
     });
-  }
+}
 
 function handleClick() {
    // Grab the datetime value from the filter
@@ -38,7 +38,7 @@ function handleClick() {
      filteredData = filteredData.filter(row => row.datetime === date);
    };
   
-    // Rebuild the table using the filtered data
+   // Rebuild the table using the filtered data
    // @NOTE: If no date was entered, then filteredData will
    // just be the original tableData.
    buildTable(filteredData);
