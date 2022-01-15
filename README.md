@@ -37,7 +37,7 @@ __Deliverable 2:__ Filter capability on data keys (datetime, city, state, countr
 ![Filter Capability](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_NoFilters.PNG)
 
 
-- The below visualization illustrates the first filter on the date; however, the filter has __NOT__ been applied.  The application is listening for a change and once a user hits the tab key the filter will be applied.
+- The below visualization illustrates the first filter on the date; however, __the filter has NOT been applied.__  The application is listening for a change and once a user hits the tab key the filter will be applied.
 
 ![Filter on date - NO Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilter.PNG)
 
@@ -45,11 +45,11 @@ __Deliverable 2:__ Filter capability on data keys (datetime, city, state, countr
  
 ![Filter on date - Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilterResults.PNG)
 
-- The below visualization illustrates an applied filter on __date ONLY__; however, another filter is about to be applied on city.  
+- The below visualization illustrates an __applied filter on date ONLY__; however, another filter is about to be applied on city.  
  
 ![Filter on date and city - One Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_Date_CityFilter.PNG)
 
-- The below visualization illustrates an applied filter on date and city.  The results have decreased yet again since applying the filter on date and city.
+- The below visualization illustrates an __applied filter on date and city.__  The results have decreased yet again since applying the filter on date and city.
  
 ![Filter on date and city - Two Filters Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateCityFilterResults.PNG)
 
