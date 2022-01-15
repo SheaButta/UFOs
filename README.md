@@ -31,7 +31,7 @@ __Deliverable 1:__ Creation of visually appealing and dynamic website.
 
 ![UFO Website Visual](https://github.com/SheaButta/UFOs/blob/main/static/images/UFO_Orig.PNG)
 
-__Deliverable 2:__ Filter capability on the below data keys:
+__Deliverable 2:__ Filter capability on data keys:
 - The below visualization illustrates one that will be used; however, the filter has not been applied.
 [Filter on date](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_results.txt)
 
