@@ -39,7 +39,16 @@ __Deliverable 2:__ Filter capability on data keys (datetime, city, state, countr
 
 - The below visualization illustrates the first filter on the date; however, the filter has __NOT__ been applied.  The application is listening for a change and once a user hits the tab key the filter will be applied.
 - 
-[Filter on date](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_results.txt)
+![Filter on date - NO Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilter.PNG)
+
+- The below visualization illustrates an applied filter on date.  You can clearly see the amount of data has decreased since applying the date filter.
+ 
+[Filter on date - Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilter.PNG)
+
+- The below visualization illustrates an applied filter on __date ONLY__; however, another filter is about to be applied on city.  
+ 
+[Filter on date and city - One Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilter.PNG)
+
 
 
 
