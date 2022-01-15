@@ -27,11 +27,16 @@ The resouces used develope this JavaScript application included;
 All sprints were completed as scheduled and I delivered on all client expectations/results.
 
 __Deliverable 1:__ Creation of visually appealing and dynamic website.
-- Looking at the below screenshot you can see how easy on the eyes this website is.
+- Looking at the below visualization you can see how easy on the eyes this website is.
 
 ![UFO Website Visual](https://github.com/SheaButta/UFOs/blob/main/static/images/UFO_Orig.PNG)
 
-__Deliverable 2:__ Filter capability on data keys:
+__Deliverable 2:__ Filter capability on data keys (datetime, city, state, country, shape).
+- The below visualization illustrates the data keys that can be filtered.  The data you see in each input box illustrated the type of data that should be entered by a user.
+
+![Filter Capability](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_NoFilters.PNG)
+
+
 - The below visualization illustrates one that will be used; however, the filter has not been applied.
 [Filter on date](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_results.txt)
 
