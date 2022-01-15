@@ -32,7 +32,7 @@ __Deliverable 1:__ Creation of visually appealing and dynamic website.
 ![UFO Website Visual](https://github.com/SheaButta/UFOs/blob/main/static/images/UFO_Orig.PNG)
 
 __Deliverable 2:__ Filter capability on data keys (datetime, city, state, country, shape).
-- The below visualization illustrates the data keys that can be filtered.  The data you see in each input box illustrated the type of data that should be entered by a user.  No filter has been entered or applied.
+- The below visualization illustrates the data keys that can be filtered.  The data you see in each input box illustrated the type of data that should be entered by a user.  __No filter has been entered or applied.__
 
 ![Filter Capability](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_NoFilters.PNG)
 
