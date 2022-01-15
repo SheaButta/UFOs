@@ -47,7 +47,11 @@ __Deliverable 2:__ Filter capability on data keys (datetime, city, state, countr
 
 - The below visualization illustrates an applied filter on __date ONLY__; however, another filter is about to be applied on city.  
  
-[Filter on date and city - One Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilter.PNG)
+[Filter on date and city - One Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_Date_CityFilter.PNG)
+
+- The below visualization illustrates an applied filter on date and city.  The results have decreased yet again since applying on both date and city.
+ 
+[Filter on date - Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilter.PNG)
 
 
 
