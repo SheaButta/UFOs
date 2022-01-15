@@ -59,6 +59,6 @@ Since adding this new design for my client, there may be a drawback of user cont
 
 Besides this drawback, I would like to recommend the following two (2) improvements;
 1. Using a drop-down list to select a search criteria. Typing search criterias would be reduced.
-2. Look for a different bootstrap class to help align the "input" tag under the label all the time.  This would improve the visualization and keep these tags from moving around on the website.
+2. Look for a different bootstrap class to help align the "input" tag under the "label" tag all the time.  This would improve the visualization and keep these tags from moving around on the website as you change screen sizes.
 
 
