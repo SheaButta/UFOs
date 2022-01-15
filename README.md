@@ -49,13 +49,16 @@ __Deliverable 2:__ Filter capability on data keys (datetime, city, state, countr
  
 [Filter on date and city - One Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_Date_CityFilter.PNG)
 
-- The below visualization illustrates an applied filter on date and city.  The results have decreased yet again since applying on both date and city.
+- The below visualization illustrates an applied filter on date and city.  The results have decreased yet again since applying the filter on date and city.
  
-[Filter on date - Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilter.PNG)
-
-
+[Filter on date and city - Two Filters Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateCityFilterResults.PNG)
 
 
 ## Summary
-The analysis of the election illustrate the following:
+Since adding this new design for my client, there may be a drawback of user control.  There are some users who like to control when and how they perform searches which would lead back to the "onClick" event.
+
+Besides this drawback, I would like to recommend the following two (2) improvements;
+1. Using a drop-down list to select a search criteria. Typing search criterias would be reduced.
+2. Look for a different bootstrap class to help align the "input" tag under the label all the time.  This would improve the visualization and keep these tags from moving around on the website.
+
 
